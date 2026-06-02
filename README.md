@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm James 👋
 
-<!--
-**coffee-driven-dev007/coffee-driven-dev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on:
 
-Here are some ideas to get you started:
+- Real-Time Applications
+- AI Integrations
+- Payment Systems
+- Event-Driven Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🎬 Popcorn Palace  
+⚽ Pitchside AI Blog  
+🎨 Real-Time Whiteboard  
+🍔 KFC Delivery Platform  
+
+## Tech Stack
+
+React  
+Node.js  
+MongoDB  
+Express  
+WebSockets  
+Stripe  
+OpenAI  
+Inngest  
+
+## Current Focus
+
+Building production-style systems that handle real users, payments, and real-time communication.
