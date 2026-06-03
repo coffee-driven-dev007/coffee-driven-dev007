@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm James Matsheni
 
-**Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms**
+### Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms
 
 I build production-style web applications that handle real users, real-time interactions, payments, and scalable backend systems.
 
@@ -13,95 +13,89 @@ I build production-style web applications that handle real users, real-time inte
 
 ## 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-FF6B6B?style=for-the-badge)
+**Frontend:** React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Realtime:** WebSockets  
+**Payments:** Stripe  
+**AI:** OpenAI  
+**Event Systems:** Inngest  
 
 ---
 
 ## 🧠 What I Focus On
 
-* Real-time applications with WebSockets
-* Scalable backend architecture (Node.js + MongoDB)
-* Secure authentication & authorization systems
-* Payment processing systems (Stripe)
-* AI-powered application workflows (OpenAI)
-* Event-driven architectures (Inngest)
+- ⚡ Real-time applications (WebSockets, live updates)
+- 🏗️ Scalable backend architecture (Node.js + MongoDB)
+- 🔐 Secure authentication & authorization systems
+- 💳 Payment systems (Stripe integration)
+- 🤖 AI-powered workflows (OpenAI API)
+- ⚙️ Event-driven architecture (Inngest)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🎬 Popcorn Palace – Movie Booking Platform
+### 🎬 Popcorn Palace – Movie Booking Platform  
+🔗 https://booking-app-five-mu.vercel.app  
 
-https://booking-app-five-mu.vercel.app
-
-* Real-time seat booking system with concurrency handling
-* Stripe payment integration for secure transactions
-* Clerk authentication & role-based access control
-* Event-driven notifications using Inngest
-* Admin dashboard for managing movies & showtimes
-
----
-
-### ⚽ Pitchside – AI Soccer Content Platform
-
-https://soccer-blog-nine-vercel.app
-
-* AI-generated football articles using OpenAI API
-* Admin approval workflow before publishing content
-* Full content management system (CRUD + moderation)
-* MongoDB-based structured content storage
+- Real-time seat booking with concurrency handling  
+- Stripe payment integration  
+- Clerk authentication + role-based access  
+- Event-driven notifications (Inngest)  
+- Admin dashboard for managing shows  
 
 ---
 
-### 🎨 Real-Time Whiteboard
+### ⚽ Pitchside – AI Soccer Content Platform  
+🔗 https://soccer-blog-nine-vercel.app  
 
-https://real-time-white-board-wheat.vercel.app
-
-* Multi-user live collaboration using WebSockets
-* Real-time drawing synchronization
-* Export functionality (PNG / PDF)
-* Low-latency communication system
+- AI-generated football content using OpenAI  
+- Admin approval workflow before publishing  
+- Full CMS (CRUD + moderation system)  
+- MongoDB structured content storage  
 
 ---
 
-### 🍔 KFC Delivery System
+### 🎨 Real-Time Whiteboard  
+🔗 https://real-time-white-board-wheat.vercel.app  
 
-* Full order lifecycle system (cart → checkout → payment)
-* Stripe integration
-* Admin order management dashboard
-* Authentication & session handling
+- Multi-user live collaboration  
+- WebSockets-based real-time sync  
+- Export to PNG / PDF  
+- Low-latency drawing system  
+
+---
+
+### 🍔 KFC Delivery System  
+- Full order lifecycle (cart → checkout → payment)  
+- Stripe integration  
+- Admin order management dashboard  
+- Authentication + session handling  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coffee-driven-dev007\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffee-driven-dev007\&layout=compact\&theme=tokyonight)
+*(Add GitHub stats card here)*  
+*(Add Top Languages card here)*  
 
 ---
 
 ## 📈 Current Focus
 
-* Improving system design skills (scalability + concurrency)
-* Building production-grade full-stack applications
-* Deepening backend architecture knowledge
-* Exploring distributed systems patterns
+- System design & scalability
+- Real-time distributed systems
+- Production-grade backend architecture
+- Advanced API design patterns
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-* LinkedIn: https://www.linkedin.com/in/james-matsheni-4bb7643b9
-* Portfolio: https://portfolio-beta-drab-76.vercel.app
-* GitHub: https://github.com/coffee-driven-dev007
+- LinkedIn: https://www.linkedin.com/in/james-matsheni-4bb7643b9  
+- Portfolio: https://portfolio-beta-drab-76.vercel.app  
+- GitHub: https://github.com/coffee-driven-dev007  
 
 ---
 
