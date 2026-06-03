@@ -14,7 +14,7 @@
 
 Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms
 
-I specialize in backend-heavy, system-driven applications — focusing on scalability, reliability, and real-world engineering constraints like concurrency, authentication, and payments.
+I specialize in backend-heavy, system-driven applications — focusing on scalability, reliability, and real-world engineering constraints such as concurrency, authentication, payments, and distributed workflows.
 
 ---
 
@@ -39,12 +39,12 @@ Stripe · OpenAI
 
 ## 🧠 Engineering Focus
 
-- ⚡ Real-time systems (WebSockets, live synchronization, concurrency handling)  
+- ⚡ Real-time systems (WebSockets, live synchronization, concurrency control)  
 - 🏗️ Scalable backend architecture (Node.js + MongoDB)  
 - 🔐 Secure authentication & authorization systems  
 - 💳 Payment processing systems (Stripe integration)  
-- 🤖 AI-powered applications (OpenAI API workflows)  
-- ⚙️ Event-driven architectures (Inngest)  
+- 🤖 AI-powered application workflows (OpenAI API)  
+- ⚙️ Event-driven and asynchronous architectures (Inngest)  
 
 ---
 
@@ -76,7 +76,7 @@ Stripe · OpenAI
 ---
 
 ### 🎨 Real-Time Whiteboard  
-#### Multi-user real-time collaborative drawing system
+#### Multi-user collaborative drawing system
 
 🔗 https://real-time-white-board-wheat.vercel.app  
 
@@ -100,7 +100,7 @@ Stripe · OpenAI
 ---
 
 ### 🌐 Portfolio Website  
-#### Personal developer portfolio showcasing production systems
+#### Personal developer portfolio showcasing production-grade systems
 
 🔗 https://portfolio-beta-drab-76.vercel.app  
 
@@ -122,12 +122,12 @@ Stripe · OpenAI
 
 ## 📈 Engineering Philosophy
 
-I care less about features — and more about how systems behave under real-world conditions.
+I care less about features and more about how systems behave under real-world conditions.
 
 - System design & scalability  
 - Real-time distributed systems  
 - Production-grade backend architecture  
-- API reliability and performance  
+- API reliability, resilience, and performance  
 
 ---
 
