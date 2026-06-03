@@ -6,18 +6,15 @@
   <b>Building real-time, scalable, production-grade systems</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--Time-Systems-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integrations-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Payments-Stripe-black?style=for-the-badge" />
-</p>
+---
 
 # 👋 Hi, I'm James Matsheni
 
-### Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms
+### I build real-time, production-grade systems that scale with real users and real traffic.
 
-I build production-style web applications that handle real users, real-time interactions, payments, and scalable backend systems.
+Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms
+
+I specialize in backend-heavy applications with real-world complexity — concurrency, authentication, payments, and event-driven architecture.
 
 ---
 
@@ -42,73 +39,74 @@ Stripe · OpenAI
 
 ## 🧠 What I Focus On
 
-- ⚡ Real-time applications (WebSockets, live updates)
+- ⚡ Real-time applications (WebSockets, live updates, concurrency handling)
 - 🏗️ Scalable backend architecture (Node.js + MongoDB)
 - 🔐 Secure authentication & authorization systems
 - 💳 Payment systems (Stripe integration)
 - 🤖 AI-powered workflows (OpenAI API)
-- ⚙️ Event-driven architecture (Inngest)
+- ⚙️ Event-driven systems (Inngest)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🎬 Popcorn Palace – Movie Booking Platform  
-🔗 https://booking-app-five-mu.vercel.app  
+### 🎬 Popcorn Palace
+#### Real-time movie booking system with concurrency-safe architecture
 
-Real-time movie booking system with concurrency-safe seat selection.
+🔗 https://booking-app-five-mu.vercel.app  
 
 - Stripe payment integration  
 - Clerk authentication + role-based access control  
+- Real-time seat booking with concurrency handling  
 - Event-driven notifications (Inngest)  
 - Admin dashboard for managing movies & showtimes  
 
 ---
 
-### ⚽ Pitchside – AI Soccer Content Platform  
-🔗 https://soccer-blog-nine-vercel.app  
+### ⚽ Pitchside
+#### AI-powered football content platform
 
-AI-powered football content platform.
+🔗 https://soccer-blog-nine-vercel.app  
 
 - AI-generated articles using OpenAI API  
 - Admin approval workflow before publishing  
 - Full CMS (CRUD + moderation system)  
-- MongoDB-based content storage  
+- MongoDB-based structured content storage  
 
 ---
 
-### 🎨 Real-Time Whiteboard  
+### 🎨 Real-Time Whiteboard
+#### Multi-user collaborative drawing system
+
 🔗 https://real-time-white-board-wheat.vercel.app  
 
-Live collaboration whiteboard tool.
-
-- Multi-user real-time drawing with WebSockets  
-- Instant sync across connected users  
+- Real-time drawing with WebSockets  
+- Instant sync across multiple users  
 - Export to PNG / PDF  
-- Low-latency interaction system  
+- Low-latency collaborative system  
 
 ---
 
-### 🍔 KFC Delivery System  
+### 🍔 KFC Delivery System
+#### Full-stack e-commerce delivery platform
+
 🔗 https://kfc-delivery-application.vercel.app  
 
-Full e-commerce delivery platform.
-
 - Cart → checkout → payment flow  
-- Stripe integration  
+- Stripe integration for payments  
 - Admin order management dashboard  
 - Authentication + session handling  
 
 ---
 
-### 🌐 Portfolio Website  
+### 🌐 Portfolio Website
+#### Personal developer portfolio with project showcase
+
 🔗 https://portfolio-beta-drab-76.vercel.app  
 
-Personal developer portfolio showcasing projects, skills, and experience.
-
-- Modern responsive UI  
-- Project showcase section  
-- Contact + social links  
+- Modern responsive UI design  
+- Project showcase system  
+- Contact and social links integration  
 - Deployed production portfolio  
 
 ---
@@ -122,7 +120,9 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 ---
 
-## 📈 Current Focus
+## 📈 Engineering Focus
+
+I care about how systems behave under load, not just how they look in demos.
 
 - System design & scalability  
 - Real-time distributed systems  
