@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="100%" src="./banner.png" />
+</p>
+
 # 👋 Hi, I'm James Matsheni
 
 **Full-Stack Developer | Real-Time Systems | AI Integrations | Payment Platforms**
