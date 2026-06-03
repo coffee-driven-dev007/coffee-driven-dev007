@@ -39,12 +39,12 @@ Stripe · OpenAI
 
 ## 🧠 Engineering Focus
 
-- ⚡ Real-time systems (WebSockets, live synchronization, concurrency control)  
+- ⚡ Real-time systems (WebSockets, concurrency control, live synchronization)  
 - 🏗️ Scalable backend architecture (Node.js + MongoDB)  
 - 🔐 Secure authentication & authorization systems  
 - 💳 Payment processing systems (Stripe integration)  
 - 🤖 AI-powered application workflows (OpenAI API)  
-- ⚙️ Event-driven and asynchronous architectures (Inngest)  
+- ⚙️ Event-driven and asynchronous systems (Inngest)  
 
 ---
 
