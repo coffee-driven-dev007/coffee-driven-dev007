@@ -90,6 +90,7 @@ Live collaboration whiteboard tool.
 ---
 
 ### 🍔 KFC Delivery System  
+🔗 https://kfc-delivery-application.vercel.app  
 
 Full e-commerce delivery platform.
 
@@ -97,6 +98,18 @@ Full e-commerce delivery platform.
 - Stripe integration  
 - Admin order management dashboard  
 - Authentication + session handling  
+
+---
+
+### 🌐 Portfolio Website  
+🔗 https://portfolio-beta-drab-76.vercel.app  
+
+Personal developer portfolio showcasing projects, skills, and experience.
+
+- Modern responsive UI  
+- Project showcase section  
+- Contact + social links  
+- Deployed production portfolio  
 
 ---
 
